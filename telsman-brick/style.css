@@ -1,0 +1,18 @@
+/*
+Theme Name: Telsman Brick
+Theme URI: https://github.com/DCakes/telsman-brick/
+Description: Drake Site Theme
+Author: The Once Cool Cucumbers
+Version: 0.0.1
+*/
+@import 'fonts.css';
+@import 'fancy/slimbox/css/slimbox2.css';
+@import 'fancy/parallax/css/normalize.css';
+@import 'fancy/topper/css/tpdemo.css';
+@import 'fancy/topper/css/main.css';
+@import 'fancy/parallax/css/grid.css';
+@import 'fancy/parallax/css/style.css';
+@import 'fancy/hover/css/hover.css';
+@import 'fancy/tileseffect/css/tedemo.css';
+@import 'fancy/tileseffect/css/style_common.css';
+@import 'telsman.css';
