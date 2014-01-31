@@ -710,11 +710,9 @@ div.fp-skills-items:nth-child(2n) .skill-img, div.fp-skills-items:nth-child(2n) 
       *display: inline;
       margin: 1.5%; }
       .fp-products #te-container .cap img {
-        background-color: #333333;
-        border-radius: 50%; }
+        background-color: #333333; }
   .fp-products #te-container .cap .caption {
-    background-color: rgba(31, 103, 116, 0.8);
-    border-radius: 50%; }
+    background-color: rgba(31, 103, 116, 0.8); }
   @media only screen and (min-width: 64.063em) {
     .fp-products .text-left {
       top: 4.5em;

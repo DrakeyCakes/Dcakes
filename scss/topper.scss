@@ -14,8 +14,12 @@
 }
 .cb-slideshow:after { 
     content: '';
-    background: transparent url(../images/pattern.png) repeat top left; 
-	
+	background-color:rgba(0,0,0,0.50);
+}
+
+.cb-slideshow:after:after { 
+    content: '';
+	background: transparent url(../images/pattern.png) repeat top left; 
 	
 }
 .cb-slideshow li span { 

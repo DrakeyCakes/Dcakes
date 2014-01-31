@@ -1178,7 +1178,6 @@ transform: rotate(180deg);
 	 
 	 img{
 		background-color: $product-tile-color; 
-		border-radius: 50%;
 	 }
 		}
 	}
@@ -1186,7 +1185,6 @@ transform: rotate(180deg);
 	#te-container .cap .caption {
 		
 		background-color: rgba($product-tile-hover-color,0.8);
-		border-radius:	50%;
 	}
 	
 	@media only screen and (min-width: 64.063em) {.text-left {
